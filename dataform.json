@@ -1,6 +1,6 @@
 {
   "warehouse": "bigquery",
-  "defaultDatabase": "TUPROJECTID",
+  "defaultDatabase": "spry-pipe-378914",
   "defaultSchema": "ecommerce_bronze",
   "defaultLocation": "us-central1",
   "assertionSchema": "ecommerce_silver",
